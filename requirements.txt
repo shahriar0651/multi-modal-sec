@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+tqdm
+keras
+tensorflow
+open3d==0.16.0
