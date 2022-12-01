@@ -5,3 +5,9 @@ tqdm
 keras
 tensorflow
 open3d==0.16.0
+trimesh
+h5py
+scikit-learn
+scipy
+seaborn
+tqdm
