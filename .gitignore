@@ -1,6 +1,7 @@
 # Dataset
 data-3d/*
 models/*
+others/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
